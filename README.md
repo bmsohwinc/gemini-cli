@@ -1,5 +1,5 @@
 # gemini-cli
-Simple CLI to chat with gemini
+Simple CLI to chat with Gemini on Linux Terminal
 
 # 3 Step Setup 
 1. Set Google Gemini API Key:
