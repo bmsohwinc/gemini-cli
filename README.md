@@ -23,4 +23,4 @@ chmod +x clichat.sh
 # More info
 - Google API key can be generated for free at https://aistudio.google.com/apikey
 - Install jq on other Linux systems: https://jqlang.org/download/
-
+- Thanks to Claude for assisting me in building the script: https://claude.ai/new
